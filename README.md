@@ -5,7 +5,7 @@
 - [塩ビパイプとダイソー330円スピーカーでつくるバックロードホーン共鳴管](VU50-stand-daiso330)
 - [塩ビパイプとNFJの470円スピーカーでつくるバスレフ管](VU75-stand-nfj-470)
 
-元々は、以前帰郷したときに祖母がテレビを大音量で観ていたのを見てなにか出来ないかと考えたのが始まりでした。
+元々は、帰郷したときに祖母がテレビを大音量で観ていたのを見て、なにか出来ないかと考えたのが始まりでした。
 
 しかし、コロナ禍のうちにその祖母も他界してしまい、結局作ったものは渡せずじまいになりました。
 
@@ -15,4 +15,4 @@
 
 # link
 
-- [MXA08 - PAM8408 mini amplifier](https://github.com/hidsh/MXA08)
+- [MXA08 - PAM8408 Mini Amplifier with Cherry MX Compatible Mechanical Switches](https://github.com/hidsh/MXA08)
